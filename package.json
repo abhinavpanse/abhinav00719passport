@@ -10,14 +10,14 @@
     "authentication"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "https://www.jaredhanson.me/"
+    "name": "abhinav panse",
+    "email": "abhinavpanse@gmail.com",
+    "url": "http://flowstateapps.tech/"
   },
   "homepage": "https://www.passportjs.org/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport.git"
+    "url": "git@github.com:abhinavpanse/abhinav00719passport.git"
   },
   "bugs": {
     "url": "https://github.com/jaredhanson/passport/issues"
